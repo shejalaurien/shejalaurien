@@ -4,6 +4,9 @@
 - 📧 Email: sheja@afrinnovat.com
 - ⚡ Fun fact: I love you
 
+### Some Stats
+![Laurien Sheja's github stats](https://github-readme-stats.vercel.app/api?username=shejalaurien&show_icons=true&theme=radical)
+
 
 
 
