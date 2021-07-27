@@ -1,8 +1,9 @@
 - 🔭 I’m Laurien Sheja
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🏢 I work at a company called Afrinnovat
+- 😄 Pronouns: he/him/his
+-📧 Email: sheja@afrinnovat.com
+-⚡ Fun fact: I love you
+
 
 
 
